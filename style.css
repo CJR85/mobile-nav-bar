@@ -49,6 +49,7 @@
   background: #ddd9f1;
   color: #5349b1;
   width: 140px;
+  transition: width 0.5s;
 }
 
 .nav-bar .link.active p {
