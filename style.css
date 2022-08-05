@@ -33,3 +33,14 @@
   cursor: pointer;
   width: 80px;
 }
+
+.nav-bar .fa-solid {
+  width: 30px;
+  height: 18px;
+}
+
+.nav-bar .link p {
+  font-weight: 500;
+  margin-left: 10px;
+  display: none;
+}
