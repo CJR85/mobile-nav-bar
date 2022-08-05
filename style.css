@@ -44,3 +44,21 @@
   margin-left: 10px;
   display: none;
 }
+
+.nav-bar .active {
+  background: #ddd9f1;
+  color: #5349b1;
+  width: 140px;
+}
+
+.nav-bar .link.active p {
+  display: block;
+}
+
+.active .fa-solid {
+  fill: #5349b1;
+}
+
+.active .fa-solid path {
+  stroke: #5349b1;
+}
